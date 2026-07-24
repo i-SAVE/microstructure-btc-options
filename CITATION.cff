@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this software or data pipeline, please cite the paper below."
+title: "Microstructure-Aware Volatility Surfaces and Cost-Efficient Delta-Hedging in Bitcoin Options"
+authors:
+  - family-names: Kistin
+    given-names: Ilya A.
+    affiliation: "Moscow Institute of Physics and Technology (MIPT); RANEPA, EMIT, Moscow, Russia"
+  - family-names: Isaev
+    given-names: Sh. M.
+    affiliation: "Advanced Engineering School, Peter the Great St. Petersburg Polytechnic University, St. Petersburg, Russia"
+year: 2026
+repository-code: "https://github.com/i-SAVE/microstructure-btc-options"
+license: MIT
+keywords:
+  - option pricing
+  - market microstructure
+  - implied volatility surface
+  - delta hedging
+  - transaction costs
+  - machine learning
+  - cryptocurrency options
+preferred-citation:
+  type: article
+  title: "Pricing with the Order Book: Microstructure-Aware Volatility Surfaces and Cost-Efficient Delta-Hedging in Bitcoin Options"
+  authors:
+    - family-names: Kistin
+      given-names: Ilya A.
+    - family-names: Isaev
+      given-names: Sh. M.
+  year: 2026
+  notes: "Corresponding author: Sh. M. Isaev (isaev.list@list.ru)."

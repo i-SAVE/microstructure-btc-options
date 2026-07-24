@@ -1,0 +1,12 @@
+{
+  "title": "Microstructure-Aware Volatility Surfaces and Cost-Efficient Delta-Hedging in Bitcoin Options",
+  "description": "Reproducibility repository for the paper \"Pricing with the Order Book: Microstructure-Aware Volatility Surfaces and Cost-Efficient Delta-Hedging in Bitcoin Options.\" A single pipeline downloads public Binance BTCUSDT option data, builds four pricing models and five delta-hedging policies, and regenerates every table and figure in the paper.",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "MIT",
+  "creators": [
+    { "name": "Kistin, Ilya A.", "orcid": "0009-0001-8300-6461", "affiliation": "Moscow Institute of Physics and Technology (MIPT), Moscow, Russia" },
+    { "name": "Isaev, Sharip M.", "orcid": "0009-0006-8141-5110", "affiliation": "Peter the Great St. Petersburg Polytechnic University, St. Petersburg, Russia" }
+  ],
+  "keywords": ["option pricing", "market microstructure", "implied volatility surface", "delta-hedging", "machine learning", "cryptocurrency options"]
+}
