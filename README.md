@@ -1,5 +1,8 @@
 # Microstructure-Aware Volatility Surfaces and Cost-Efficient Delta-Hedging in Bitcoin Options
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21570772.svg)](https://doi.org/10.5281/zenodo.21570772)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Reproducibility repository for the paper:
 
 > **Pricing with the Order Book: Microstructure-Aware Volatility Surfaces and Cost-Efficient Delta-Hedging in Bitcoin Options.**
