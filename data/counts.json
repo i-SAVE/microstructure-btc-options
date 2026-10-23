@@ -1,0 +1,19 @@
+{
+ "files": 41,
+ "raw_rows": 227914,
+ "valid_time_dedup": 227914,
+ "two_sided_uncrossed": 216305,
+ "positive_mark": 216305,
+ "dte_5_60": 91314,
+ "with_spot": 91314,
+ "final": 91314,
+ "n_symbols": 308,
+ "first_time": "2023-09-01 01:00:00",
+ "last_time": "2023-10-24 00:00:00",
+ "t_val": "2023-10-04 16:00:00",
+ "t_split": "2023-10-11 15:00:00",
+ "n_fit": 51084,
+ "n_val": 12822,
+ "n_test": 27408,
+ "n_train": 63906
+}

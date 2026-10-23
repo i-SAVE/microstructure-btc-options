@@ -1,31 +1,38 @@
 cff-version: 1.2.0
-message: "If you use this software or data pipeline, please cite the paper below."
-title: "Microstructure-Aware Volatility Surfaces and Cost-Efficient Delta-Hedging in Bitcoin Options"
+message: "If you use this code or the derived data, please cite the article below."
+type: software
+title: "Two-level assessment of the value of market microstructure information for implied volatility estimation and delta-hedging of Bitcoin options: code and derived data"
+version: 2.0.0
+date-released: 2026-10-23
 authors:
   - family-names: Kistin
-    given-names: Ilya A.
-    affiliation: "Moscow Institute of Physics and Technology (MIPT); RANEPA, EMIT, Moscow, Russia"
+    given-names: Ilya
+    orcid: "https://orcid.org/0009-0001-8300-6461"
+    affiliation: "Moscow Institute of Physics and Technology (National Research University); Tsentralny University"
   - family-names: Isaev
-    given-names: Sh. M.
-    affiliation: "Advanced Engineering School, Peter the Great St. Petersburg Polytechnic University, St. Petersburg, Russia"
-year: 2026
+    given-names: Sharip
+    orcid: "https://orcid.org/0009-0006-8141-5110"
+    affiliation: "ITMO University"
 repository-code: "https://github.com/i-SAVE/microstructure-btc-options"
 license: MIT
 keywords:
-  - option pricing
+  - Bitcoin options
+  - implied volatility
   - market microstructure
-  - implied volatility surface
   - delta hedging
   - transaction costs
+  - no-trade zone
+  - data leakage
   - machine learning
-  - cryptocurrency options
 preferred-citation:
   type: article
-  title: "Pricing with the Order Book: Microstructure-Aware Volatility Surfaces and Cost-Efficient Delta-Hedging in Bitcoin Options"
+  title: "Two-Level Assessment of the Value of Market Microstructure Information for Implied Volatility Estimation and Delta-Hedging of Bitcoin Options"
   authors:
     - family-names: Kistin
-      given-names: Ilya A.
+      given-names: Ilya
+      orcid: "https://orcid.org/0009-0001-8300-6461"
     - family-names: Isaev
-      given-names: Sh. M.
+      given-names: Sharip
+      orcid: "https://orcid.org/0009-0006-8141-5110"
   year: 2026
-  notes: "Corresponding author: Sh. M. Isaev (isaev.list@list.ru)."
+  notes: "Manuscript; the Russian title is «Двухуровневая оценка ценности микроструктурной информации при оценивании подразумеваемой волатильности и дельта-хеджировании опционов на биткоин»."

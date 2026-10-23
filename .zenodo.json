@@ -1,12 +1,13 @@
 {
-  "title": "Microstructure-Aware Volatility Surfaces and Cost-Efficient Delta-Hedging in Bitcoin Options",
-  "description": "Reproducibility repository for the paper \"Pricing with the Order Book: Microstructure-Aware Volatility Surfaces and Cost-Efficient Delta-Hedging in Bitcoin Options.\" A single pipeline downloads public Binance BTCUSDT option data, builds four pricing models and five delta-hedging policies, and regenerates every table and figure in the paper.",
+  "title": "Two-level assessment of the value of market microstructure information for implied volatility estimation and delta-hedging of Bitcoin options: code and derived data",
+  "version": "2.0.0",
+  "description": "Code, derived results and figures for the article by I. Kistin and Sh. Isaev. The pipeline downloads public Binance BTCUSDT option (EOHSummary) and spot data for September-October 2023, verifies them by SHA-256, estimates implied volatility with five models under leakage control, backtests hourly delta hedging with six rebalancing rules (hourly, Leland, fixed threshold, fixed band, Whalley-Wilmott band, adaptive threshold) and regenerates every number, table and figure of the article. Release v2.0.0 supersedes v1.0.0.",
   "upload_type": "software",
   "access_right": "open",
   "license": "MIT",
   "creators": [
-    { "name": "Kistin, Ilya A.", "orcid": "0009-0001-8300-6461", "affiliation": "Moscow Institute of Physics and Technology (MIPT), Moscow, Russia" },
-    { "name": "Isaev, Sharip M.", "orcid": "0009-0006-8141-5110", "affiliation": "Peter the Great St. Petersburg Polytechnic University, St. Petersburg, Russia" }
+    {"name": "Kistin, Ilya", "orcid": "0009-0001-8300-6461", "affiliation": "Moscow Institute of Physics and Technology (National Research University); Tsentralny University"},
+    {"name": "Isaev, Sharip", "orcid": "0009-0006-8141-5110", "affiliation": "ITMO University"}
   ],
-  "keywords": ["option pricing", "market microstructure", "implied volatility surface", "delta-hedging", "machine learning", "cryptocurrency options"]
+  "keywords": ["Bitcoin options", "implied volatility", "market microstructure", "delta hedging", "transaction costs", "no-trade zone", "data leakage", "machine learning"]
 }
